@@ -1,7 +1,7 @@
 package com.etc.entity;
 
+//公司类
 public class Company {
-
 	private Integer companyId;
 	private String companyName;
 	private String domain;
