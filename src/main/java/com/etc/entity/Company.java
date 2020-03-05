@@ -1,6 +1,6 @@
 package com.etc.entity;
 
-//公司实体类2
+//公司实体类3
 public class Company {
 
 	private Integer companyId;
